@@ -1,4 +1,3 @@
 %{
   "circuits_gpio": {:hex, :circuits_gpio, "1.1.0", "cda895fd0a12fdf50e27f6d61cc349587dff29755fca640b93233a661925d97a", [:make, :mix], [{:elixir_make, "~> 0.6", [hex: :elixir_make, repo: "hexpm", optional: false]}], "hexpm", "11dab3c7b39cbe08588e9527c9fd98117be485f70b61641874abdda50340e991"},
-  "elixir_make": {:hex, :elixir_make, "0.7.3", "c37fdae1b52d2cc51069713a58c2314877c1ad40800a57efb213f77b078a460d", [:mix], [{:castore, "~> 0.1", [hex: :castore, repo: "hexpm", optional: true]}], "hexpm", "24ada3e3996adbed1fa024ca14995ef2ba3d0d17b678b0f3f2b1f66e6ce2b274"},
 }
